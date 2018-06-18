@@ -1,3 +1,6 @@
 *{
     box-sizing: border-box;
 }
+p{
+    border: 3px;
+}
